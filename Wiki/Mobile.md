@@ -34,7 +34,7 @@
 - ⭐ [Awesome Android Root](https://awesome-android-root.org/): Step-by-step guide to root.
 **Rooting can potentially brick your device and break bank applications. Make sure you understand the risks before trying out.**
   
-- ⭐ [Termux](https://termux.com/): Terminal Emulator.
+- ⭐ [Termux](https://termux.com/): Terminal Emulator. / [List of packages](https://packages.termux.dev/apt/termux-main/pool/main/)
 
 - ⭐ [AutoTagger](https://autotagger.ru/): Metadata Organiser.
 
