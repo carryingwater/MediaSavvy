@@ -87,6 +87,8 @@ Make sure to get a VPN before torrenting
 
 - ⭐ [Transmission Web](https://rentry.co/88ctfr89/)
 
+- [Aria2](https://gist.github.com/T4P4N/37ea56f0d54138eeaa1c164c54c3d0f2)
+ 
 - [Libre Torrent](https://gitlab.com/proninyaroslav/libretorrent)
 
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
